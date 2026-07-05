@@ -1,0 +1,6 @@
+{
+  "name": "DEXHUNTER",
+  "description": "A premium crypto token discovery dashboard styled with a dark cosmic theme, featuring real-time listings, trending charts, and advanced filters powered by DexScreener API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
